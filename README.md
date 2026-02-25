@@ -47,12 +47,11 @@ return certificates[certHash];
 
 ## Output:
 ### True:
-<img width="1919" height="1199" alt="Screenshot 2026-02-05 091503" src="https://github.com/user-attachments/assets/a55a8f9d-2cd3-46e4-8049-01930c759abe" />
+<img width="1919" height="1199" alt="Screenshot 2026-02-25 103637" src="https://github.com/user-attachments/assets/b5061912-3b17-4af2-857c-a252b119888c" />
 
 
 ### False:
-
-<img width="1919" height="1199" alt="Screenshot 2026-02-25 100612" src="https://github.com/user-attachments/assets/a2444b45-6709-4aff-9054-94466829c9bd" />
+<img width="1919" height="1199" alt="Screenshot 2026-02-25 103710" src="https://github.com/user-attachments/assets/f8d17470-3108-4da0-99aa-fbfd80649bbd" />
 
 
 ## Result :
